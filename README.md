@@ -11,6 +11,19 @@
 
 - ⚡ Fun fact **Computers are fast; programmers keep it slow xD**
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=BhavyaSingh2611&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=BhavyaSingh2611&theme=dark&hide_border=false)<br/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=BhavyaSingh2611&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=BHavyasingh2611&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/bhavyasingh2611" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bhavyasingh2611" height="30" width="40" /></a>
